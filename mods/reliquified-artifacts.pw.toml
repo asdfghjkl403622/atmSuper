@@ -1,0 +1,13 @@
+name = "Reliquified Artifacts"
+filename = "reliquified_artifacts-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3eee98542c2d934d57dad14caf60ae32fb25604f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7869181
+project-id = 1100379
